@@ -11,6 +11,7 @@ En este proyecto que hace parte de un curso sobre JS moderno, he creado una impl
 ## Aprendiendo JavaScript
 
 - Brayan Marín Guirales
+- [Más información del curso de JavaScript en cuestión](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 - [Más información de mi persona](https://www.linkedin.com/in/brayan-marin-guirales/)
 
 ## Julio de 2023

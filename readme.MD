@@ -6,7 +6,7 @@ En este proyecto que hace parte de un curso sobre JS moderno, he creado una impl
 
 - JavaScript
 - HTML5/CSS3, Boostrap
-- [Demo](https://segurosautosprototypejs.netlify.app/)
+- [Aquí la DEMO](https://segurosautosprototypejs.netlify.app/)
 ## Aprendiendo JavaScript
 
 - Brayan Marín Guirales

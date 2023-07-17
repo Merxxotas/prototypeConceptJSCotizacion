@@ -6,8 +6,7 @@ En este proyecto que hace parte de un curso sobre JS moderno, he creado una impl
 
 - JavaScript
 - HTML5/CSS3, Boostrap
-- Se ejecuta usando la extensión live server en VsCode
-
+- Demo: https://segurosautosprototypejs.netlify.app/
 ## Aprendiendo JavaScript
 
 - Brayan Marín Guirales
